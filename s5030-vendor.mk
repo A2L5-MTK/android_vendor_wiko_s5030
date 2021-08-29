@@ -198,6 +198,7 @@ PRODUCT_COPY_FILES += \
     vendor/wiko/s5030/proprietary/lib/libvcodecdrv.so:system/lib/libvcodecdrv.so \
     vendor/wiko/s5030/proprietary/lib/mtk-ril.so:system/lib/mtk-ril.so \
     vendor/wiko/s5030/proprietary/lib/mtk-rilmd2.so:system/lib/mtk-rilmd2.so \
+    vendor/wiko/s5030/proprietary/usr/keylayout/mtk-kpd.kl:system/usr/keylayout/mtk-kpd.kl \
     vendor/wiko/s5030/proprietary/vendor/lib/hw/audio.a2dp.blueangel.so:system/vendor/lib/hw/audio.a2dp.blueangel.so \
     vendor/wiko/s5030/proprietary/vendor/lib/hw/bluetooth.blueangel.so:system/vendor/lib/hw/bluetooth.blueangel.so \
     vendor/wiko/s5030/proprietary/vendor/lib/libWVStreamControlAPI_L3.so:system/vendor/lib/libWVStreamControlAPI_L3.so \
