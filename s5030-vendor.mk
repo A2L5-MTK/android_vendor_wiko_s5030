@@ -127,6 +127,7 @@ PRODUCT_COPY_FILES += \
     vendor/wiko/s5030/proprietary/lib/libcam.metadata.so:system/lib/libcam.metadata.so \
     vendor/wiko/s5030/proprietary/lib/libcam.metadataprovider.so:system/lib/libcam.metadataprovider.so \
     vendor/wiko/s5030/proprietary/lib/libcam.paramsmgr.so:system/lib/libcam.paramsmgr.so \
+    vendor/wiko/s5030/proprietary/lib/libcam.sdkclient.so:system/lib/libcam.sdkclient.so \
     vendor/wiko/s5030/proprietary/lib/libcam.utils.sensorlistener.so:system/lib/libcam.utils.sensorlistener.so \
     vendor/wiko/s5030/proprietary/lib/libcam.utils.so:system/lib/libcam.utils.so \
     vendor/wiko/s5030/proprietary/lib/libcam1_utils.so:system/lib/libcam1_utils.so \
@@ -165,6 +166,7 @@ PRODUCT_COPY_FILES += \
     vendor/wiko/s5030/proprietary/lib/libimageio_plat_drv.so:system/lib/libimageio_plat_drv.so \
     vendor/wiko/s5030/proprietary/lib/libion_mtk.so:system/lib/libion_mtk.so \
     vendor/wiko/s5030/proprietary/lib/libm4u.so:system/lib/libm4u.so \
+    vendor/wiko/s5030/proprietary/lib/libmmsdkservice.feature.so:system/lib/libmmsdkservice.feature.so \
     vendor/wiko/s5030/proprietary/lib/libmmsdkservice.so:system/lib/libmmsdkservice.so \
     vendor/wiko/s5030/proprietary/lib/libmnl.so:system/lib/libmnl.so \
     vendor/wiko/s5030/proprietary/lib/libmsbc_mtk.so:system/lib/libmsbc_mtk.so \
