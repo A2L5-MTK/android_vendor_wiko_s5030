@@ -97,6 +97,9 @@ PRODUCT_COPY_FILES += \
     vendor/wiko/s5030/proprietary/lib/libMali.so:system/lib/libMali.so \
     vendor/wiko/s5030/proprietary/lib/libadpcm.so:system/lib/libadpcm.so \
     vendor/wiko/s5030/proprietary/lib/libaed.so:system/lib/libaed.so \
+    vendor/wiko/s5030/proprietary/lib/libarcsoft_night_shot.so:system/lib/libarcsoft_night_shot.so \
+    vendor/wiko/s5030/proprietary/lib/libarcsoft_panorama_burstcapture.so:system/lib/libarcsoft_panorama_burstcapture.so \
+    vendor/wiko/s5030/proprietary/lib/libarcsoft_wideselfie.so:system/lib/libarcsoft_wideselfie.so \
     vendor/wiko/s5030/proprietary/lib/libaudiocompensationfilter.so:system/lib/libaudiocompensationfilter.so \
     vendor/wiko/s5030/proprietary/lib/libaudiocomponentengine.so:system/lib/libaudiocomponentengine.so \
     vendor/wiko/s5030/proprietary/lib/libaudiocustparam.so:system/lib/libaudiocustparam.so \
@@ -164,11 +167,15 @@ PRODUCT_COPY_FILES += \
     vendor/wiko/s5030/proprietary/lib/libimageio.so:system/lib/libimageio.so \
     vendor/wiko/s5030/proprietary/lib/libimageio_FrmB.so:system/lib/libimageio_FrmB.so \
     vendor/wiko/s5030/proprietary/lib/libimageio_plat_drv.so:system/lib/libimageio_plat_drv.so \
+    vendor/wiko/s5030/proprietary/lib/libimageio_plat_drv_FrmB.so:system/lib/libimageio_plat_drv_FrmB.so \
     vendor/wiko/s5030/proprietary/lib/libion_mtk.so:system/lib/libion_mtk.so \
     vendor/wiko/s5030/proprietary/lib/libm4u.so:system/lib/libm4u.so \
     vendor/wiko/s5030/proprietary/lib/libmmsdkservice.feature.so:system/lib/libmmsdkservice.feature.so \
     vendor/wiko/s5030/proprietary/lib/libmmsdkservice.so:system/lib/libmmsdkservice.so \
     vendor/wiko/s5030/proprietary/lib/libmnl.so:system/lib/libmnl.so \
+    vendor/wiko/s5030/proprietary/lib/libmpo.so:system/lib/libmpo.so \
+    vendor/wiko/s5030/proprietary/lib/libmpodecoder.so:system/lib/libmpodecoder.so \
+    vendor/wiko/s5030/proprietary/lib/libmpoencoder.so:system/lib/libmpoencoder.so \
     vendor/wiko/s5030/proprietary/lib/libmsbc_mtk.so:system/lib/libmsbc_mtk.so \
     vendor/wiko/s5030/proprietary/lib/libmtcloader.so:system/lib/libmtcloader.so \
     vendor/wiko/s5030/proprietary/lib/libmtk_drvb.so:system/lib/libmtk_drvb.so \
